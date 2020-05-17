@@ -84,21 +84,39 @@ on my future group projects.
 
 Lastly, almost all of my sounds were obtained from https://freesound.org/ but here is the list of all sounds I used and edited, with the addition of one sound
 that I ended up making myself.
+
 https://freesound.org/people/Ali_6868/sounds/384865/       -Grass Step
+
 https://freesound.org/people/AgentDD/sounds/246225/        -Flap
+
 https://freesound.org/people/RensvdMeijs/sounds/377068/    -Wind
+
 https://freesound.org/people/straget/sounds/415053/        -Water
+
 https://freesound.org/people/DDmyzik/sounds/468212/        -Music
+
 https://freesound.org/people/AmberdeMeillon/sounds/443065/ -Leaf Rustle
+
 https://freesound.org/people/Splatez07/sounds/413690/      -UI Click
+
 https://freesound.org/people/Anthousai/sounds/398897/      -Map Rustle
+
 https://freesound.org/people/Anthousai/sounds/398897/      -Dialogue Popup
+
 https://freesound.org/people/TriqyStudio/sounds/467604/    -Inventory
+
 https://freesound.org/people/Greencouch/sounds/124899/     -Pause Menu
+
 https://freesound.org/people/Alexbuk/sounds/391754/        -Plane
+
 https://freesound.org/people/onehugeeye/sounds/511318/     -Landing on Grass
+
 https://freesound.org/people/DeepPurple5/sounds/448975/    -Wing Rustle
+
 Grunt- Matthew Nagy
+
 https://freesound.org/people/PhreaKsAccount/sounds/46272/  -Fire
+
 https://freesound.org/people/_nuel/sounds/54973/           -Crow
+
 https://freesound.org/people/msantoro11/sounds/351113/     -Deer
