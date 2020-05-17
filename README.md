@@ -21,3 +21,10 @@ a game engine that I have really experienced in my WPI career, and career in gen
 don't be afraid to ask questions from your peers, but first, google your question, word it a bunch of different ways, and look to see tutorials of someone
 else that may have done it, research and then communication will help you solve most of your problems.
 
+
+![Image of fire](https://github.com/AstroSeer/JamminMattDoc/blob/master/FireParticleEX.PNG)
+
+
+Up here is an example screenshot of the fire particle system, I created a spherical space for it to put out the particles, firstly making a bright material and a material 
+instance, chose the colors, added in a transition and adjusted how I wanted that color to transition into, adjusted the range of sizes and what shapes the particles make 
+as well, which was really intersting and I feel that the simple low poly style of particles I chose fit the game world, I did the same procedure with the clouds.
