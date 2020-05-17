@@ -1,14 +1,14 @@
 # Matthew Nagy - IMGD 4000 - Team JAMMIN: Cartograbird Documentation
 
 
-##My Role
+## My Role
 
 
 My name is Matthew Nagy and my role for team JAMMIN was making a few particle effects, implementing all the sounds, how they interact with the world,
 and the state machines that power the animations and their transitions. All of this was done using Unreal Engine's blueprints and particle engine.
 
 
-##Challenges I Faced and Overcoming Them
+## Challenges I Faced and Overcoming Them
 
 
 Some challenges I encountered often times finding the right sounds that felt like they would fit into the game. Not every sound is made to loop and finding ways
@@ -60,7 +60,7 @@ Small image showing the sounds and their sound cues.
 This is an image showing how the sound cues look and the randomization and attentuation added to most sounds to add variation and avoid repitition.
 
 
-##Game Project Architecture
+## Game Project Architecture
 
 
 ![Image of graph](https://github.com/AstroSeer/JamminMattDoc/blob/master/graph.png)
@@ -69,7 +69,7 @@ This is an image showing how the sound cues look and the randomization and atten
 This shows how the work was planned out and distributed and is mostly accurate to how the final project panned out, although I did dip my toes into particle effects.
 
 
-##Version Control
+## Version Control
 
 
 We used git for our version control and my experience was as chaotic as my first experience with Git during CS-3733, Software Engineering. Although the chaos
@@ -79,7 +79,7 @@ two different worlds. Aside from those examples, in general, it did tend to work
 on my future group projects.
 
 
-##Credits
+## Credits
 
 
 Lastly, almost all of my sounds were obtained from https://freesound.org/ but here is the list of all sounds I used and edited, with the addition of one sound
